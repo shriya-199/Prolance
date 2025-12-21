@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+.agent/
+
+# Distribution / packaging
+backend/node_modules/
+.Python
+build/
+dist/
+wheels/
+*.egg
+*.whl
+
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.bak
+*.swp
+*.swo
+
+# Editors and IDEs
+.idea/
+.vscode/
+.agent
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.project
+.classpath
+.settings/
+*.iml
+*.ipr
+.agent/
+*.iws
+
+# Dependency directories
+node_modules/
+vendor/
+bower_components/
+
+
+# Environment variables
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# Temporary files
+*.tmp
+*~
+~*
+
+# Qit specific (assuming 'qit' refers to some build/output directory or temporary files)
+qit/
+.qit/
+*.qit
