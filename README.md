@@ -189,10 +189,6 @@ npm install
 
 This project is private and proprietary.
 
-## 👤 Author
-
-**Meraz Haque**
-
 ---
 
 **Happy Coding! 🎉**
